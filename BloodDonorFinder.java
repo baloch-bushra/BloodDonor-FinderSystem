@@ -68,7 +68,7 @@ public class BloodDonorFinder extends JFrame {
         );
 
         JLabel title = new JLabel(
-            "BLOOD DONOR & FINDER SYSTEM"
+            "BLOOD DONOR & FINDER APP"
         );
         title.setForeground(Color.WHITE);
         title.setFont(new Font("Arial", Font.BOLD, 27));
